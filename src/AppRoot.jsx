@@ -10,7 +10,7 @@ const AppRoot = ({ store }) => (
   <Provider store={store}>
     <div className="app-root">
       <Helmet
-        title="Alphabeat"
+        title="your-app-name"
       />
       <App />
     </div>
